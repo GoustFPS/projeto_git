@@ -1,0 +1,11 @@
+git init
+git config --global user.name "seu user name"
+git config --global user.email "seu e-mail"
+git add -A "adicionar a alteração ou arquivo"
+git commit -m "comentario"
+git log "ver os commits nessa branch"
+
+Comandos de branch
+git branch "vai mostrarqual branch estão criadas"
+git branch nome_da_branch "cria uma nova branch"
+git checkout nome_da_branch "troca a branch"
